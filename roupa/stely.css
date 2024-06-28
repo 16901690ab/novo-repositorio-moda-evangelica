@@ -15,12 +15,24 @@ h1{
     padding-left: 5%;
 }
 .imagem{
-    width: 350px;
-    height: 350px;
+    width: 15%;
+    height: 15%;
+    margin-left: 8%;
+}
+.imagem.a{
+    width: 20%;
+    height: 20%;
+    margin-left: 8%;
 }
 .pepe{
     font-size: 24px;
 }
 .problema{
     font-size: 24px;
+}
+.cor-de-fundo{
+    background-color: black;
+}
+.cor-de-fundo-branca{
+    background-color: white;
 }
